@@ -38,7 +38,7 @@ logging.basicConfig(
     ]
 )
 
-logger = logging.getLogger(__name__)
+logger = logging.getLogger(__mostafaaa__)
 
 logger.info("live log streaming to telegram.")
 
